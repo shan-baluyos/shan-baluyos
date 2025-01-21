@@ -2,9 +2,9 @@
 ##
 <img src="https://capsule-render.vercel.app/api?type=venom&height=500&color=gradient&text=Hi,%20I'm%20Shan%20👋🏼&textBg=false&animation=blinking&reversal=false&strokeWidth=0&rotate=0&fontAlign=44&descAlign=61&fontAlignY=27" />
 
-- 😄 Pronouns: He/Him
+😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on a website for a Coffee Trailer company - [link to be added soon]
+🔭 I’m currently working on a website for a Coffee Trailer company - [link to be added soon]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shan-baluyos) 
